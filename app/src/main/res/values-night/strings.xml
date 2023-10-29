@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="click_me">ClickMe</string>
+    <string name="generated_number">Generated Number: %d</string>
+    <string name="default_text">Generated Number: Click button to generate</string>
+</resources>
